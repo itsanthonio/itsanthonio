@@ -16,8 +16,8 @@
 ![IoT](https://img.shields.io/badge/-IoT-00A650?style=flat&logo=raspberrypi&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Vera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veraanthonio&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veraanthonio&layout=compact&theme=dark)
+![Vera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsanthonio&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsanthonio&layout=compact&theme=dark)
 
 ## 🌍 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vera-anthonio)
