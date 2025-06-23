@@ -1,6 +1,6 @@
 <h1 align="center">I'm Vera Anthonio</h1>
 
-## 🚀 About Me
+##  About Me
 - 🤖 Passionate about **Machine Learning** and **AI Research**
 - 🏋️ Currently exploring **Multi-Agent Systems (MAS)** for fitness applications
 - 🎯 Using **Reinforcement Learning** for diet recommendations
