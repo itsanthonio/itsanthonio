@@ -1,4 +1,4 @@
-<h1 align="center">I'm Vera Anthonio</h1>
+<h1 align="center"></h1>
 
 ##  About Me
 - 🤖 Passionate about **Machine Learning** and **AI Research**
